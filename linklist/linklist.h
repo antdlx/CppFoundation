@@ -1,0 +1,8 @@
+//
+// Created by antdl on 2017/10/24.
+//
+
+#ifndef CPPFOUNDATION_LINKLIST_H
+#define CPPFOUNDATION_LINKLIST_H
+
+#endif //CPPFOUNDATION_LINKLIST_H
